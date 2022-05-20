@@ -10,8 +10,8 @@ I have used a variety set of visualisation chart to present data:
 * Panel 
 
 # Technologies/Tools:
-
-
+&#10004;D3.js       &#10004;Math.js     &#10004;JsData      &#10004;Plotly.js
+&#10004;HTML        &#10004;Bootstrap
 # Data Source
 The Public Science Lab  
 [Hulcr, J. et al.(2012) A Jungle in There: Belly Button are Highly Diverse, but Predictable](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/) 
