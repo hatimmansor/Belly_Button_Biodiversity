@@ -9,6 +9,8 @@ I have used a variety set of visualisation chart to present data:
 * Gauge Chart
 * Panel 
 
+# Technologies/Tools:
+
 
 # Data Source
 The Public Science Lab  
