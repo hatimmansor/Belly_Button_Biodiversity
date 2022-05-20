@@ -17,6 +17,6 @@ The Public Science Lab
 [Hulcr, J. et al.(2012) A Jungle in There: Belly Button are Highly Diverse, but Predictable](http://robdunnlab.com/projects/belly-button-biodiversity/results-and-data/) 
 
 
-as you can see below
+# Code Snapshots and Results
 
 ![project](https://user-images.githubusercontent.com/24882457/156173290-cc6884cb-1ecd-44a3-971b-9cce85549f00.PNG)
