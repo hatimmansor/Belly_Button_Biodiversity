@@ -4,10 +4,10 @@ In this project, I have build an interactive dashboard to explore the Belly Butt
 The dataset reveals that a small handful of microbial species (also called operational taxonomic units, or OTUs, in the study) were present in more than 70% of people, while the rest were relatively rare.
 
 I have used a variety set of visualisation chart to present data:
-* Bar chart
-* bubble chart
-* gauge chart
-* panel data
+* Bar Chart
+* Bubble Chart
+* Gauge Chart
+* Panel 
 
 
 # Data Source
